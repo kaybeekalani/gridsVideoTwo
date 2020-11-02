@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+
+div{
+
+  background-color: lightblue;
+}
+
+.wrapper
+{
+    background-color: lightyellow;
+    width: 90%;
+    margin: 0 auto;
+
+}
